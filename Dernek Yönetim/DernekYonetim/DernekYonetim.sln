@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DernekYonetim.DAL", "DernekYonetim.DAL\DernekYonetim.DAL.csproj", "{B1CE5874-7602-41C7-8ECA-120B918BF46E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DernekYonetim.BLL", "DernekYonetim.BLL\DernekYonetim.BLL.csproj", "{802EE931-464D-499E-AB4C-C02196F257FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DernekYonetim.UI", "DernekYonetim.UI\DernekYonetim.UI.csproj", "{9A87C9BB-59FA-462D-BAE4-D4C305F201AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DernekYonetim.Test", "DernekYonetim.Test", "{A4FAFDDE-3546-42C5-B0AD-0C3D423F9E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DernekYonetim.DAL.Tests", "DernekYonetim.DAL.Tests\DernekYonetim.DAL.Tests.csproj", "{950B10D5-64D2-4F8D-8759-944E51F0CD10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DernekYonetim.BLL.Tests", "DernekYonetim.BLL.Tests\DernekYonetim.BLL.Tests.csproj", "{C0575E61-EA3D-4A3A-8E82-264A5FEB9DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1CE5874-7602-41C7-8ECA-120B918BF46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CE5874-7602-41C7-8ECA-120B918BF46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CE5874-7602-41C7-8ECA-120B918BF46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CE5874-7602-41C7-8ECA-120B918BF46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802EE931-464D-499E-AB4C-C02196F257FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802EE931-464D-499E-AB4C-C02196F257FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802EE931-464D-499E-AB4C-C02196F257FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802EE931-464D-499E-AB4C-C02196F257FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A87C9BB-59FA-462D-BAE4-D4C305F201AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A87C9BB-59FA-462D-BAE4-D4C305F201AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A87C9BB-59FA-462D-BAE4-D4C305F201AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A87C9BB-59FA-462D-BAE4-D4C305F201AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950B10D5-64D2-4F8D-8759-944E51F0CD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950B10D5-64D2-4F8D-8759-944E51F0CD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950B10D5-64D2-4F8D-8759-944E51F0CD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950B10D5-64D2-4F8D-8759-944E51F0CD10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0575E61-EA3D-4A3A-8E82-264A5FEB9DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0575E61-EA3D-4A3A-8E82-264A5FEB9DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0575E61-EA3D-4A3A-8E82-264A5FEB9DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0575E61-EA3D-4A3A-8E82-264A5FEB9DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{950B10D5-64D2-4F8D-8759-944E51F0CD10} = {A4FAFDDE-3546-42C5-B0AD-0C3D423F9E42}
+		{C0575E61-EA3D-4A3A-8E82-264A5FEB9DFE} = {A4FAFDDE-3546-42C5-B0AD-0C3D423F9E42}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03DCE157-F9EB-49A5-A1E0-3403638150EF}
+	EndGlobalSection
+EndGlobal

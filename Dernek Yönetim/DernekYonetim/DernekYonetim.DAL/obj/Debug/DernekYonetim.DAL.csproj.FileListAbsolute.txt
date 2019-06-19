@@ -1,0 +1,35 @@
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.pdb
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.pdb
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.pdb
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csprojAssemblyReference.cache
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csproj.CoreCompileInputs.cache
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.pdb
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Backup\DernekYonetim\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.dll
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Backup\DernekYonetim\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.pdb
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Backup\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csprojAssemblyReference.cache
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Backup\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csproj.CoreCompileInputs.cache
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Backup\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.dll
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Backup\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.pdb
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.dll
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.pdb
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.dll
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.pdb
+F:\DernekYonetimHoca\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.dll
+F:\DernekYonetimHoca\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.pdb
+F:\DernekYonetimHoca\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csprojAssemblyReference.cache
+F:\DernekYonetimHoca\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csproj.CoreCompileInputs.cache
+F:\DernekYonetimHoca\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.dll
+F:\DernekYonetimHoca\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.pdb
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.dll
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.pdb
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csprojAssemblyReference.cache
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csproj.CoreCompileInputs.cache
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.dll
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.pdb

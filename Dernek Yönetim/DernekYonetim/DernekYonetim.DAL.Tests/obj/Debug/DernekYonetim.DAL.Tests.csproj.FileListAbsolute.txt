@@ -1,0 +1,80 @@
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.Tests.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.Tests.pdb
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.pdb
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csprojAssemblyReference.cache
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csproj.CoreCompileInputs.cache
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csproj.CopyComplete
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.pdb
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.pdb
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.Tests.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.Tests.pdb
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.pdb
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csproj.CopyComplete
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.Tests.dll
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.Tests.pdb
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.dll
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.pdb
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csprojAssemblyReference.cache
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csproj.CopyComplete
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.dll
+C:\Users\Samil Yilmaz\Desktop\oguz\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.pdb
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.Tests.dll
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.Tests.pdb
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.dll
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.pdb
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csprojAssemblyReference.cache
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csproj.CoreCompileInputs.cache
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csproj.CopyComplete
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.dll
+F:\DernekYonetimHoca\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.pdb
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.Tests.dll
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.Tests.pdb
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.dll
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\DernekYonetim.DAL.pdb
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csprojAssemblyReference.cache
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csproj.CoreCompileInputs.cache
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csproj.CopyComplete
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.dll
+C:\Users\emrey\Downloads\DernekYonetimMock\DernekYonetimHoca\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.pdb
